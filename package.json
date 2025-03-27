@@ -28,10 +28,9 @@
     }
   ],
   "engines": {
-    "node": ">=16.0.0 <=22.x.x",
-    "npm": ">=6.0.0"
+    "node": ">=20.0.0 <=22.x.x",
+    "npm": ">=11.0.0"
   },
-  "gitRepository": "https://github.com/rkristelijn/strapi-health-plugin.git",
   "keywords": [
     "strapi",
     "Kubernetes",
@@ -43,7 +42,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:rkristelijn/strapi-health-plugin.git"
+    "url": "https://github.com/allindevelopers/strapi-health-plugin.git"
   },
   "files": [
     "dist/server/index.js",
